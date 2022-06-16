@@ -1,0 +1,1 @@
+# template-kata-video-store-java
